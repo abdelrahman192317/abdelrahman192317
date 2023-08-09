@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman192317&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman192317" /> </p>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on **Computer Vision Projects**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Any Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **abdoshaisha523@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DG7qbN2LMvtYw6Lpmk89WBA2InfCCLcG/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TmfmpmVxO07J95e-QncMfZzawawH4jI7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
